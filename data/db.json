@@ -270,8 +270,8 @@
       "amount_paid": 58,
       "quantity": 2,
       "user": {
-        "name": "Haider Bukhari",
-        "email": "apshaiderbukhari@example.com",
+        "name": "Shubham Sarda",
+        "email": "shubham@example.com",
         "id": 1
       },
       "id": 1
@@ -279,9 +279,9 @@
   ],
   "users": [
     {
-      "email": "apshaiderbukhari786@gmail.com",
-      "password": "$2a$10$OmHQTMOt4BykXD/yhZcWFuMGigkLnM8WEAc9k0mn7jUWizVq/Az/O",
-      "name": "Muhammad Haider Bukhari",
+      "email": "shubham@example.com",
+      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
+      "name": "Shubham Sarda",
       "id": 1
     }
   ]
